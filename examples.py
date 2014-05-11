@@ -135,7 +135,7 @@ for i in document:
 			a_dict.update({x:0})
 
 
-#Fucking with lists
+#playing with lists
 a_dict = {'one':1}
 tuples = (1,2)
 listt = [1,2,3]
