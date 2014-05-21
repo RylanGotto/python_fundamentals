@@ -98,7 +98,7 @@ if type(1) == int:
 	print "is int"
 
 #tuples
-duple = (1, "word")
+tuple = (1, "word")
 threeple = (1, False, "word")
 fourple = (1, 2, True, "word")
 fourple[3] # "word"
