@@ -111,7 +111,11 @@ dict.update({'three':3})
 
 for i in dict.iteritems():
 	print i # ('two':2)
-			# ('one':1)
+		# ('one':1)
+dict = {'r':1,'d':2}
+   for k, i in dict.items():
+       print "the value of", k, "is", i
+
 
 for i in dict.itervalues():
 	print i # 2
